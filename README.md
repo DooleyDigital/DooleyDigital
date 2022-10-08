@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DooleyDigital
 - 👀 I’m interested in iOS & Android Apps
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Swift UI & Flutter
 - 📫 How to reach me Jordan@dooledigital.co.uk
 
 <!---
